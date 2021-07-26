@@ -13,7 +13,7 @@ Apka napisana w C# i WinForms z użyciem biblioteki DLL napisanej przy użyciu F
 Aplikacja po wciśnieciu odpowiedniego przycisku wyświetla fraktale utworzone na podstawie przekształceń afinicznych. Obliczanie wykonywane są przez bibliotekę DLL napisaną w assemblerze.
 
 ## Screenshots
-![Example screenshot](./img/assembler2.pdf)
+![Example screenshot](./assembler2.pdf)
 
 ## Technologies
 * C# 
