@@ -14,6 +14,9 @@ Aplikacja po wciśnieciu odpowiedniego przycisku wyświetla fraktale utworzone n
 
 ## Screenshots
 ![Example screenshot](./paprotka.jpg)
+![Smok](./smok_kol.jpg)
+![choinka](./choinka.jpg)
+![assembler](./assembler2.jpg)
 
 ## Technologies
 * C# 
