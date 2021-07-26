@@ -21,7 +21,7 @@ Aplikacja po wciśnieciu odpowiedniego przycisku wyświetla fraktale utworzone n
 * WinForms 
 
 ## Setup
-To run app user should open "Steganografia.exe" file in Windows 10/7.
+To run app user should open "Mandelbroat_set.exe" file in Windows 10/7.
 
 
 
