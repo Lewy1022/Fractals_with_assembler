@@ -1,0 +1,10 @@
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\bin\Debug\Mandelbroat_set.exe.config
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\bin\Debug\Mandelbroat_set.exe
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\bin\Debug\Mandelbroat_set.pdb
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.csprojAssemblyReference.cache
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.Form1.resources
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.Properties.Resources.resources
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.csproj.GenerateResource.cache
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.csproj.CoreCompileInputs.cache
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.exe
+C:\Users\Woland\source\repos\Mandelbroat_set\Mandelbroat_set\obj\Debug\Mandelbroat_set.pdb
